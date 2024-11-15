@@ -10,11 +10,7 @@ This project aims to analyze Yelp reviews of Asian cuisine restaurants in Canada
 
 - **03_data_cleaning_and_keywords.ipynb**: This notebook details data cleaning procedures, including removing noise from reviews and extracting relevant keywords for analysis, such as food-related and service-related terms.
 
-- **04_sentiment_analysis.ipynb**: This notebook applies sentiment analysis using the VADER model to assess customer sentiment towards different aspects of their dining experience, such as food quality and service.
-
-- **05_topic_modeling.ipynb**: This notebook uses topic modeling (Latent Dirichlet Allocation - LDA) to identify the key themes discussed by customers in their reviews, providing insights into recurring topics and their associated sentiment.
-
-- **06_insights_and_recommendations.ipynb**: This notebook summarizes the insights from the sentiment and topic modeling analysis and provides actionable recommendations for restaurant owners to improve customer satisfaction.
+- **04_sentiment_and_topic_modeling.ipynb**: This notebook applies sentiment analysis using the VADER model to assess customer sentiment towards different aspects of their dining experience, such as food quality and service. It also uses topic modeling (Latent Dirichlet Allocation - LDA) to identify the key themes discussed by customers in their reviews, providing insights into recurring topics and their associated sentiment.
 
 - **data/**: This folder contains the filtered datasets used in the analysis. The original Yelp dataset is not included due to size constraints but can be accessed from the Yelp Dataset repository.
 

@@ -209,7 +209,7 @@ Some NLTK resources are downloaded within the notebooks. Ensure an internet conn
 
 ## 8. Acknowledgments
 
-- **Yelp Open Dataset**: We thank Yelp for providing the open dataset used in this analysis.
+- **Yelp Open Dataset**: We thank Yelp for providing the open dataset used in this analysis. https://www.yelp.com/dataset
 - **Libraries and Tools**: Appreciation for the developers of pandas, numpy, matplotlib, seaborn, nltk, gensim, pyLDAvis, and other tools that made this analysis possible.
 
 **Note**: This project complies with Yelp's data usage policies. All data used is anonymized, and no personally identifiable information (PII) is disclosed.

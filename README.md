@@ -22,7 +22,7 @@ This project aims to understand customer perceptions of Asian restaurants in the
 - **Advanced Analysis**: Builds upon the EDA to perform deeper analyses, including topic modeling and aspect-based sentiment analysis, to uncover hidden themes and sentiments within the reviews.
 
 ## 2. Dataset Overview
-The analysis utilizes data from the Yelp Open Dataset, specifically focusing on:
+The analysis utilizes data from the Yelp Open Dataset (https://www.yelp.com/dataset), specifically focusing on:
 
 - **Business Data**: Information about businesses, including their attributes, categories, and review counts.
 - **Review Data**: Customer reviews, including the review text, star ratings, and timestamps.
